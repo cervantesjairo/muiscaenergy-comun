@@ -1,6 +1,6 @@
 import unittest
 import pandas as pd
-from muiscaenergy_common.src.utils.mix import parse_custom_freq
+from src.utils.mix import parse_custom_freq
 
 
 class TestUtilMix(unittest.TestCase):
