@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: muiscaenergy-comun
+Version: 0.0.1
+Summary: common functions for muiscaenergy projects
+Home-page: https://pypi.org/project/
+Author: Jairo Hernando Cervantes Garcia
+License: MIT license
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
 # muiscaenergy-comun
 Common functions for Muisca energy projects
 
