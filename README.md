@@ -13,7 +13,7 @@ Gitiignore
 2. comente la linea con (*.egg-info/)... en mi version es liena 24
 
 Pasos para crear un paquete
-1. agregar el __init__ y la metadata del proyecto
-2. crear los archivos de codigo
-2. crear el archivo setup.py
+1. agregar nuevo folder con src (python directory) y otro ocn test (python directory)
+2. crear los archivos de folder
+3. crear el archivo setup.py
 
