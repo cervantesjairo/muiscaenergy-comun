@@ -38,6 +38,17 @@ Example usage:
     print(ts3.df)
 
 
+## Learning Material
+# Espanol
+* https://www.youtube.com/watch?v=AczMuVzUrkE&ab_channel=SebastianBelmonte
+* https://www.youtube.com/watch?v=xQGT9RZrBjg&ab_channel=AnartzMugikaLedo-Desarrollo%26Formaci%C3%B3n
+
+# English
+* https://www.youtube.com/watch?v=5KEObONUkik&ab_channel=ArjanCodes
+* https://www.youtube.com/watch?v=WhRKSf6I0F0&ab_channel=SpencerPao
+* https://www.youtube.com/watch?v=v4bkJef4W94&ab_channel=DevOpsJourney
+* https://www.youtube.com/watch?v=GIF3LaRqgXo&ab_channel=CodingTech
+* https://www.youtube.com/watch?v=90PWQEc--6k&ab_channel=CloudQuickLabs
 
 Pasos
 1. Crear un nuevo repositorio en github
@@ -61,5 +72,9 @@ Pasos para subir el paquete a pypi
 5. twine check dist/* --> check if the package is ok
 6. twine upload dist/* --> upload to pypi
 7. (alternativa) twine upload dist/muiscaenergy-comun-0.0.2.tar.gz*
+
+## API Documentation
+pip install pdoc
+pdoc --math ./src -o ./api_docs
 
 
