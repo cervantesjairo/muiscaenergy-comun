@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 if __name__ == '__main__':
     setup(
         name='muiscaenergy-comun',
-        version='0.0.3',
+        version='0.0.4',
         url='https://pypi.org/project/',
         author='Jairo Hernando Cervantes Garcia',
         emai='muiscaenergy@gmail.com',
