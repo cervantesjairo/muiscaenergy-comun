@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: muiscaenergy-comun
-Version: 0.0.5
+Version: 0.0.6
 Summary: common functions for muiscaenergy projects
 Home-page: https://pypi.org/project/
 Author: Jairo Hernando Cervantes Garcia
@@ -90,6 +90,7 @@ Pasos para subir el paquete a pypi
 5. twine check dist/* --> check if the package is ok
 6. twine upload dist/* --> upload to pypi
 7. (alternativa) twine upload dist/muiscaenergy-comun-0.0.2.tar.gz*
+8. pip install --upgrade muiscaenergy_comun
 
 ## API Documentation
 pip install pdoc
