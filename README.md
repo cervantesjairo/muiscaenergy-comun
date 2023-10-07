@@ -72,6 +72,7 @@ Pasos para subir el paquete a pypi
 5. twine check dist/* --> check if the package is ok
 6. twine upload dist/* --> upload to pypi
 7. (alternativa) twine upload dist/muiscaenergy-comun-0.0.2.tar.gz*
+8. pip install --upgrade muiscaenergy_comun
 
 ## API Documentation
 pip install pdoc
