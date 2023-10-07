@@ -1,5 +1,5 @@
 import unittest
-from src.eng_economy.cashflow import CashFlowMeasures
+from muiscaenergy_comun.src.eng_economy.cashflow import CashFlowMeasures
 
 
 class TestCashFlowMeasures(unittest.TestCase):

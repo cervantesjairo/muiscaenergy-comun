@@ -1,5 +1,5 @@
 import unittest
-from src.messages.base import TimeSeriesMessage as TSm
+from muiscaenergy_comun.src.messages.base import TimeSeriesMessage as TSm
 import pandas as pd
 from datetime import datetime
 
